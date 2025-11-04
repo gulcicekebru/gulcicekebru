@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ebru Turkmen</h1>
+<h1 align="center">Hi 👋, I'm Ebru Türkmen</h1>
 <h3 align="center">Full Stack Developer | C# • ASP.NET Core • Java • React • SQL</h3>
 
 🌱 I’m currently focusing on **Full Stack Web Development** using  
